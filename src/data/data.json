@@ -1,0 +1,86 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Eswar",
+                "role":"Student",
+                "email":"eswararaokottakota.1@gmail.com",
+                "address": "westgodhavari, A.P",
+                "gender":"male",
+                "mobile":"6301189779"
+                },
+        
+        "summary" : [
+            "Have knoledge on electronics Studying E.C.Engineering",
+            "Have knlodge on photo / video editings Most are are related to nature",
+            "Did some electronoc projects (IOT[Smart DustBin]) (Home Automation)"
+
+        ],
+
+            "education" : [
+                {
+                    "degree" : "10th",
+                    "percentage":"9.3GPA",
+                    "institute":"Z.P.H School"
+                },
+                {
+                    "degree" : "Diploma in electronics and communcation engineering",
+                    "institute" : "D.N.R College of Engineering and Technology",
+                    "percentage":"84%"
+                },
+                {
+                    "degree" : "B-Tech in electroninc and communicetion engineering",
+                    "institute" : "D.N.R College of Engineering and Technology",
+                    "percentage":"89%"
+                }
+
+            ],
+            "skills" :{
+                "computer": "computer skills",
+                "editings":"photo / video Editings",
+                "core": "Realtime Electronic Projects",
+                "webdev":"web Designing"
+            }
+    },
+        {
+            "basics":{
+                "name":"Eswarrao",
+                "role":"Web Designer",
+                "email":"webeswar.1@gmail.com",
+                "address": "Undi,Westgodhavari",
+                "mobile":"6301189779"
+            },
+
+            "summary" : [
+            "Having 3+ months of experiance in web designing  Started during the Lockdown",
+            "Having knoledge on HTML5, CSS  little bit knoledge in Js and ReactJs and Bootstrap also",
+            "Got interest on Web Devolopment "
+
+        ],
+            "education" : [
+                {
+                    "degree" : "10th",
+                    "institute":"Z.P.H School",
+                    "percentage": "9.3 GPA"
+                },
+                {
+                    "degree" : "Diploma in electronics and communcation engineering",
+                    "institute" : "D.N.R College of Engineering and Technology",
+                    "percentage": "84%"
+                },
+                {
+                    "degree" : "B-Tech in electroninc and communicetion engineering",
+                    "institute" : "D.N.R College of Engineering and Technology",
+                    "percentage": "89%"
+                }
+
+            ],
+            "skills" :{
+                "computer": "computer skills",
+                "editings":"photo / video Editings",
+                "core": "Realtime Electronic Projects",
+                "webdev":"FrontEnd Devolopment"
+            }
+        }
+    ]
+}
